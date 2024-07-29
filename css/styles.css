@@ -452,10 +452,9 @@ footer {
   border-bottom: 1px solid #dcd9d9;
   text-align: center;
 }
+
 #projects h2 {
-  color: black;
-  margin-bottom: 30px;
-  font-size: 25px;
+  color: #374054;
 }
 .project {
   position: relative;
@@ -477,6 +476,12 @@ footer {
 .project-info {
   flex: 2; /* 정보가 더 많은 공간을 차지하도록 설정 */
   padding: 15px;
+}
+
+.project-info h2 {
+  color: black;
+  margin-bottom: 30px;
+  font-size: 25px;
 }
 .project-info h3 {
   font-size: 20px;
