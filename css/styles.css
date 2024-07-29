@@ -469,6 +469,7 @@ footer {
 
 .project-image {
   flex: 1; /* 이미지가 공간을 차지하도록 설정 */
+  justify-content: left;
 }
 
 .project-info {
