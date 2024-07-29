@@ -469,6 +469,8 @@ footer {
 
 .project-image {
   justify-content: left;
+  width: 300px;
+  height: auto;
 }
 
 .project-info {
